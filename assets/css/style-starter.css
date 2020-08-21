@@ -30,6 +30,7 @@ margin-right: 50%;
 
   .text-medio {
     padding-left: 28px;
+    
   }
 
  
@@ -37,21 +38,27 @@ margin-right: 50%;
 @media (max-width: 667px) {
 
   .text-medio {
-    padding-left: 28px;}
+    padding-left: 28px;
+  margin:0px;
+}
 
   }
 
 @media (max-width: 480px) {
 
   .text-medio {
-    padding-left: 28px;}
+    padding-left: 28px;
+    margin:0px;
+}
 
   }
 
 @media (max-width: 440px) {
 
   .text-medio{
-    padding-left: 28px;}
+    padding-left: 28px;
+    margin:0px;
+}
 
   }
 }
