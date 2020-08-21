@@ -103,6 +103,16 @@ margin-right: 50%;
   }
 }
 
+@media (max-width: 338px) {
+
+  .img-antenados {
+    width: 346px;
+    height: 100%;
+    float:left;
+    
+  }
+}
+
 .img-bem {
   width: 603px;
   height: 94%;
