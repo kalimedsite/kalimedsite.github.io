@@ -4440,11 +4440,11 @@ a.read-more-btn2.btn:hover {
   background-size: cover;
   z-index: 0;
   position: relative;
+  height: 250px;
 }
 
 .w3l-counter-6 .conuter-66-info::before {
   content: "";
-  background: rgba(6, 14, 21, 0.55);
   position: absolute;
   top: 0;
   min-height: 100%;
@@ -6981,9 +6981,11 @@ div.ppt {
   color: #fff;
 }
 
+
+
 .w3l-footer-22-main .below-section {
   background-color: #14817b;
-  padding: 15px 0;
+  padding: 20px 0;
 }
 
 .w3l-footer-22-main .column2 span {
@@ -11538,6 +11540,7 @@ input[type="button"].btn-block {
 
 .show2 {
   margin-top: 10px;
+  margin-left: -30px;
 }
 
 .dropdown-menu {
@@ -11752,7 +11755,6 @@ input[type="button"].btn-block {
 
 .dropdown-menu.show {
   display: block;
-  margin-left: -30px;
 }
 
 .dropdown-header {
@@ -19132,6 +19134,9 @@ display: none;
   }
 }
 
+.show2 {
+  margin-left: -30px;
+}
 .btn-group2 {
   display: none;
 }
